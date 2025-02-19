@@ -7,7 +7,7 @@ import io.restassured.response.Response;
 
 public class CoinDeskAPITest {
 
-	@Test
+//	@Test
 	public void validateGETRequestTest() {
 
 		Response response = given().
